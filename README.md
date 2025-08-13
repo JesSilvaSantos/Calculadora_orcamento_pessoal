@@ -7,7 +7,7 @@ Uma calculadora para ajudar no controle financeiro mensal, feita por uma simples
 # 🎯 Objetivo   
 
 - A calculadora foi criada para ajudar os usuários e organizar suas finanças de forma prática, diretamente pelo terminal;
-- Praticar Python de forma facil e direto;
+- Praticar Python de forma fácil e direta;
 - Para entender melhor como funciona a entrada de dados e listas
 
 --- 
@@ -31,7 +31,7 @@ Uma calculadora para ajudar no controle financeiro mensal, feita por uma simples
 
 # 👩‍💻 Tecnologias utilizadas
 
-- Python 3.10+ -> Lógica de peorgramação e interação
+- Python 3.10+ -> Lógica de programação e interação
 - Markdown (.md) -> Documentação do projeto no GitHub
 
 ---
